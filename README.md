@@ -23,10 +23,13 @@
 ### 🎓 Education
 - **Bachelor's Degree in Software Engineering** – UniAmérica | September 2024 to 2028.  
 - **Software Developer** – CESAE | September 2024 to April 2025.  
-- **OutSystems** – OutSystems Developer School | 35 hours | November 2024.  
+- **OutSystems** – OutSystems Developer School | 35 hours | November 2024.
+- **Bootstrap** – Origamid | 10 hours | October 2024.
 - **Front End & UX/UI Design** – Origamid | 80 hours | September 2024.  
 - **OutSystems Developer I** – Desenvolvo | July 2024.  
-- **Low Code Developer** – Desenvolvo | June 2024.  
+- **Low Code Developer** – Desenvolvo | June 2024.
+- **Data Science for Beginners** – Udemy | November 2023.
+- **Learn HTML Course** – Codeacademy | October 2023. 
 - **Bachelor's Degree in Social Education** – Polytechnic Institute of Porto | September 2018 to July 2021.
 
 ---
