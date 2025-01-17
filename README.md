@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=894f39&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=894F39&center=true&vCenter=true&width=1000&lines=Hello!+%F0%9F%91%8B;I'm+Mandtrr;I'm+a+Software+Developer!)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=894F39&center=true&vCenter=true&width=1000&lines=Hello!+%F0%9F%91%8B;I'm+Amanda;I'm+a+Software+Developer!)
 <div align="center">
   <a href="https://github.com/mandtrr">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandtrr&show_icons=true&count_private=true&hide_border=true&title_color=894f39&icon_color=894f39&text_color=894f39&bg_color=0d1117" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandtrr&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=894f39&icon_color=894f39&text_color=894f39&bg_color=0d1117" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandtrr&layout=compact&langs_count=7&hide_border=true&title_color=894f39&text_color=894f39&bg_color=0d1117" />
   </a>
 </div>
+
 
 ## About Me
 
