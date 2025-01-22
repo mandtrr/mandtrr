@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/mandtrr">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandtrr&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=894f39&icon_color=894f39&text_color=894f39&bg_color=0d1117" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandtrr&layout=compact&langs_count=7&hide_border=true&title_color=894f39&text_color=894f39&bg_color=0d1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandtrr&hide_progress=true&hide_border=true&title_color=894f39&text_color=894f39&bg_color=0d1117" />
   </a>
 </div>
 
