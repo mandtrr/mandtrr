@@ -14,14 +14,12 @@
 <img align="right" width="180em" alt="About Me" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG8zYjljdmxzM29jNzk0MmZ5MXdtdDJwdGNzbjRnM2c1YW5hbWRuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cXblnKXr2BQOaYnTni/giphy.gif" />
 
 👩‍🎓 Software Development student.  
-👩‍💻 Focused on learning **PHP Laravel**, **JavaScript**, and **OutSystems**.  
 🎂 Age: 29  
 🎓 Degree in Social Education from Polytechnic Institute of Porto.
 
 ---
 
 ### 🎓 Education
-- **Bachelor's Degree in Software Engineering** – UniAmérica | September 2024 to 2028.  
 - **Software Developer** – CESAE | September 2024 to April 2025.  
 - **OutSystems** – OutSystems Developer School | 35 hours | November 2024.
 - **Bootstrap** – Origamid | 10 hours | October 2024.
