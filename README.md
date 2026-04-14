@@ -14,7 +14,6 @@
 <img align="right" width="180em" alt="About Me" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG8zYjljdmxzM29jNzk0MmZ5MXdtdDJwdGNzbjRnM2c1YW5hbWRuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cXblnKXr2BQOaYnTni/giphy.gif" />
 
 👩‍🎓 Software Development student.  
-🎂 Age: 29  
 🎓 Degree in Social Education from Polytechnic Institute of Porto.
 
 ---
