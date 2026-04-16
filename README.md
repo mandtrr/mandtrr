@@ -1,11 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=7F5AF0&height=120&section=header"/>
 
 <h1 align="center">Hi, I'm Amanda 👋</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">FullStack Developer</h3>
 
-<p align="center">
-Turning ideas into real, functional products through code.
-</p>
 
 <div align="center">
   <a href="https://github.com/mandtrr">
@@ -56,15 +53,12 @@ Coming from Social Education, I bring something many developers lack:
 → Communication  
 → User-focused thinking  
 
-I don’t just build features — I think about the people using them.
-
 ---
 
 ## 🌍 Languages
 
 - Portuguese — Native  
 - English — Intermediate  
-- Spanish — Intermediate  
 
 ---
 
