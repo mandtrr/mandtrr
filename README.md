@@ -27,8 +27,8 @@
 ## 🧰 Tech Stack
 
 ```txt
-Languages:   C# | JavaScript | HTML | CSS  
-Frameworks:  .NET | Bootstrap  
+Languages:   C# | JavaScript | SQL 
+Frameworks:  .NET | ASP.NET Core | Bootstrap 
 Tools:       Git | GitHub | SQL Server | OutSystems  
 ```
 
