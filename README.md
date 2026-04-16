@@ -18,7 +18,7 @@ Turning ideas into real, functional products through code.
 
 ## 👩‍💻 About Me
 
-<img align="right" width="200em" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXpwcWpmcTdwa2h4MGt1bnpxeXFhOGMxdW8zeHFqZmwxOHM0bGx5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTRUNQrthgIAGo5xvO/giphy.gif"/>
+<img align="right" width="200em" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQwMXZlajhlOGhhaGwxdDZzMGUxZjd1YW5yMHVrOXFkem5raHhvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif"/>
 
 - 🎓 Background in **Social Education**  
 - 💻 Currently specializing in **.NET / C# development**  
