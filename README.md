@@ -20,7 +20,6 @@
 - 🎓 Background in **Social Education**  
 - 💻 Currently specializing in **.NET / C# development**  
 - 🧠 Strong soft skills: communication, adaptability, teamwork  
-- 🚀 Focused on building real-world applications  
 
 ---
 
